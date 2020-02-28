@@ -1,0 +1,6 @@
+The quick brown fox jumps over the lazy dog.
+For many practical purposes, light and other electromagnetic waves will appear to propagate instantaneously, but for long distances and very sensitive measurements, their finite speed has noticeable effects. 
+
+In communicating with distant space probes, it can take minutes to hours for a message to get from Earth to the spacecraft, or vice versa. The light seen from stars left them many years ago, allowing the study of the history of the universe by looking at distant objects. 
+
+The finite speed of light also limits the theoretical maximum speed of computers, since information must be sent within the computer from chip to chip. The speed of light can be used with time of flight measurements to measure large distances to high precision. 

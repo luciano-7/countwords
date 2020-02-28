@@ -1,0 +1,2 @@
+This program counts the number of words and optionally finds the longest and/or shortest words in a string input by the user or coming from a file. 
+Using the command line and the usage statement .\countwords.exe [-l] [-s] [filename] if the user doesn't enter a filename then the user will be prompted to enter a string.
